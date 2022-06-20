@@ -1,0 +1,9 @@
+{
+  "patient_id": "96be3ef4-04f6-4df0-95cd-a7e0d566ad15",
+  "order_payments": [
+    {
+      "amount": 25500,
+      "method": "wallet"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "handler": "http",
+  "type": "recurring",
+  "data": {
+    "resource": "timor-oms",
+    "destination": "$order_id",
+    "http_method": "PUT"
+  },
+  "payload": {
+    "type": "system_cancelled",
+    "reason": "NO ACTION FROM USER"
+  },
+  "time_zone": "Asia/Jakarta",
+  "frequency": {
+    "second": "*",
+    "minute": "*",
+    "hour": "*",
+    "month": "*",
+    "year": "2021",
+    "day_of_month": "*"
+  }
+}

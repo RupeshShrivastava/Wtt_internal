@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="pd_order_flow" verbose="1">
+    <listeners>
+        <listener class-name="com.halodoc.oms.orders.slack.SlackStageListener"></listener>
+    </listeners>
+    <test name="Timor OMS , Search , Buru Sanity Tests">
+        <classes>
+            <class name="com.halodoc.search.SearchTestCases"/>
+        </classes>
+    </test>
+</suite>

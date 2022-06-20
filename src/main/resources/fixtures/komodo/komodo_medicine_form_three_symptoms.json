@@ -1,0 +1,9 @@
+{
+  "patient_id": "$entity_id",
+  "symptoms": [
+    "Pain Reliever",
+    "Inflammation",
+    "Nausea & Vomiting"
+  ],
+  "comment": ""
+}

@@ -1,0 +1,4 @@
+{
+  "merchant_location_id": "$merchantLocationId",
+  "status": "$status"
+}

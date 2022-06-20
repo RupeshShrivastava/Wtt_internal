@@ -1,0 +1,5 @@
+{
+  "name":"$schemeName",
+  "scheme_type":"$type",
+  "status":"$statusType"
+}

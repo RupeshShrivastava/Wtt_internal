@@ -1,0 +1,5 @@
+{
+  "type" : "customer_cancelled",
+  "reason" :"Sumne",
+  "comments" :"No comments"
+}

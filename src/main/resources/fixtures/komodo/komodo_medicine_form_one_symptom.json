@@ -1,0 +1,7 @@
+{
+  "patient_id": "$entity_id",
+  "symptoms": [
+    "Infection"
+  ],
+  "comment": ""
+}

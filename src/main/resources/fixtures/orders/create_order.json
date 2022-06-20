@@ -1,0 +1,38 @@
+{
+  "attributes": {
+    "address_details": "Jl. Men2teng Pulo, Menteng Atas, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+    "address_name": "Jalan Menteng Pulo"
+  },
+  "cart_id": "$cart_id",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "bb1b9841-f34f-4d60-b12c-e255c7025ffa",
+  "entity_type": "user",
+  "items": [
+    {
+      "currency": "IDR",
+      "description": "just for test",
+      "listing_id": "08bd253b-3a68-492b-955b-1e8bc1d2ed38",
+      "name": "FAKTU SUPPOSITORIA",
+      "requested_price": "10400",
+      "requested_quantity": "$quantity"
+    }
+  ],
+  "latitude": "-6.22141925",
+  "longitude": "106.84154145",
+  "address": {
+    "formatted_address": "106, 2nd Main Rd, Nanjappa Layout, Adugodi, Bengaluru, Karnataka 560030, India",
+    "admin": "Karnataka",
+    "country": "India",
+    "latitude": "12.9408718",
+    "locality": "Bengaluru",
+    "longitude": "77.60781919",
+    "postal_code": "560030",
+    "premise": "2nd Main Road",
+    "route": "2nd Main Road",
+    "sub_admin": "Bangalore Urban"
+  },
+  "patient_id": "bb1b9841-f34f-4d60-b12c-e255c7025ffa",
+  "shipping_address": "Jl. Menteng Pulo, Menteng Atas, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia"
+
+}

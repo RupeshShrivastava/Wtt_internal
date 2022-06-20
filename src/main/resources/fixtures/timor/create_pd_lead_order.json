@@ -1,0 +1,28 @@
+{
+  "attributes": {
+    "address_details": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, ",
+    "address_name": "Jalan Setia Budi Selatan",
+    "lead_id": "$leadId"
+  },
+  "cart_id": "$cart_id",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "$entity_id",
+  "entity_type": "user",
+  "items": [
+    {
+      "listing_id": "61d396af-bf44-4ee6-be32-0b70e731dc0d",
+      "name": "ALUDONNA P SIRUP 150 ML",
+      "requested_quantity": "1"
+    },
+    {
+      "listing_id": "2b72f963-56db-4a76-be2e-af8fb6a77fc5",
+      "name": "NATRA BIO CHILDu0027S COUGH SIRUP 4 OZ",
+      "requested_quantity": "1"
+    }
+  ],
+  "latitude": "-6.2118906",
+  "longitude": "106.8272061",
+  "patient_id": "$entity_id",
+  "shipping_address": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, "
+}

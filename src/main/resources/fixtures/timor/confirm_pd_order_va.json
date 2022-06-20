@@ -1,0 +1,11 @@
+{
+  "patient_id": "$patient_id",
+  "order_payments": [
+    {
+      "amount": $amount,
+      "method": "bca_va",
+      "payment_reference_id": "$payment_id"
+    }
+  ],
+  "prescriptions": []
+}

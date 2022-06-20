@@ -1,0 +1,23 @@
+{
+  "attributes": {
+    "address_details": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, ",
+    "address_name": "Jalan Setia Budi Selatan"
+  },
+  "cart_id": "$cart_id",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "$entity_id",
+  "entity_type": "user",
+  "items": [
+    {
+      "listing_id": "$listing_id",
+      "name": "Koi bhi dawai",
+      "requested_quantity": "1",
+      "requested_price": "10000"
+    }
+  ],
+  "latitude": "-6.6488614",
+  "longitude": "106.7309988",
+  "patient_id": "$entity_id",
+  "shipping_address": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, "
+}

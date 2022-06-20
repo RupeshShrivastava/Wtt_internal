@@ -1,0 +1,17 @@
+{
+  "patient_id": "81d1aafc-17e6-4586-ab9c-13ffe48c44e2",
+  "entity_id":"77a9ac54-a70f-448f-b2ba-5d26ff8b31e0",
+  "latitude": "-6.231916",
+  "longitude": "106.8294068",
+  "shipping_address": "BLR",
+  "notes": [
+    {
+      "comments": "test comments in notes"
+    }
+  ],
+  "documents": [
+    {
+      "url": "test document url"
+    }
+  ]
+}

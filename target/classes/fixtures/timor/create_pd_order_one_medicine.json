@@ -1,0 +1,23 @@
+{
+  "attributes": {
+    "address_details": "PERTOKOAN KEBON JERUK BLOK A1 NO. 18-19, JL. MERUYA ILIR RAYA, JAKARTA BARAT",
+    "address_name": "APOTIK EVITA JAKARTA"
+  },
+  "cart_id": "$cart_id",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "$entity_id",
+  "entity_type": "user",
+  "items": [
+    {
+      "listing_id": "$listing_id",
+      "name": "Any med",
+      "requested_quantity": "1",
+      "requested_price": "10000"
+    }
+  ],
+  "latitude": "-6.197787",
+  "longitude": "106.745323",
+  "patient_id": "bb1b9841-f34f-4d60-b12c-e255c7025ffa",
+  "shipping_address": "PERTOKOAN KEBON JERUK BLOK A1 NO. 18-19, JL. MERUYA ILIR RAYA, JAKARTA BARAT"
+}

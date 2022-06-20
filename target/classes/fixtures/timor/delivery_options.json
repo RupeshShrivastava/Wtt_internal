@@ -1,0 +1,9 @@
+{
+  "group_delivery_option": {
+    "$group_id": {
+      "external_id": "$external_id",
+      "group_id": "$group_id",
+      "status": "active"
+    }
+  }
+}

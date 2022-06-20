@@ -1,0 +1,14 @@
+{
+  "order_payments": [
+    {
+      "method": "cash",
+      "amount": 43000
+    }
+  ],
+  "notes": [
+    {
+      "type": "user_note",
+      "comments": "Add Delivery Notes"
+    }
+  ]
+}

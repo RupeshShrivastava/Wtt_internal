@@ -1,0 +1,7 @@
+{
+  "day_of_week": "$day_of_week",
+  "start_time": "07:00",
+  "end_time": "23:59",
+  "active": false
+}
+

@@ -1,0 +1,15 @@
+
+{
+  "entity_type":"user",
+  "entity_id":"$entity_id",
+  "service_type":"pharmacy_delivery",
+  "service_reference_id": "$order_id",
+  "currency":"IDR",
+  "amount":"$price",
+  "payment_provider":"midtrans",
+  "payment_method":"$payment_method",
+  "attributes": {
+    "applicable_adjustment_uuid": "$UUID",
+    "payment_method": "card"
+  }
+}

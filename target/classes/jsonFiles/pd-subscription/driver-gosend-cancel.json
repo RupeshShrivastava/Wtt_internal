@@ -1,0 +1,19 @@
+{
+  "status": "cancelled",
+  "delivery_partner_id": "12",
+  "delivery_partner_name": "",
+  "delivery_partner_phone": "",
+  "delivery_partner_photo": "",
+  "created_time": "2021-03-08T23:07:16+07:00",
+  "dispatch_time": "null",
+  "arrival_time": "null",
+  "closed_time": "null",
+  "tracking_id": "$tracking_id",
+  "booking_id":"$tracking_id",
+  "shipment_provider": "gosend",
+  "live_tracking_url": "www.halodoc.com",
+  "receiver_name": "null",
+  "cancel_description": "null",
+  "pickup_eta": "null",
+  "delivery_eta": "null"
+}

@@ -1,0 +1,19 @@
+{
+  "group_delivery_option": {
+    "$group_id_0": {
+      "external_id": "$delivery_ext_id_0",
+      "group_id": "$group_id_0",
+      "status": "active"
+    }
+  },
+  "group_item_update_quantity": {
+    "$group_id_0": {
+      "items": [
+        {
+          "listing_id": "$listing_id_0",
+          "requested_quantity": 2
+        }
+      ]
+    }
+  }
+}

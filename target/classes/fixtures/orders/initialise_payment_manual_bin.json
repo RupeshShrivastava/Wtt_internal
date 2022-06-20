@@ -1,0 +1,20 @@
+{
+  "amount": "$amount",
+  "attribute_list": [],
+  "currency": "IDR",
+  "entity_id": "bb1b9841-f34f-4d60-b12c-e255c7025ffa",
+  "customer_details": {
+    "email": "X6Fxvp5vOGoEbJEK2NZBI3GGL2L+8fETXE7uVIu09VdgYBIDJUs8UE/SUemcIbEICrSZtB7E/VK9Q8mheMi6Sw==@halodoc.com"
+  },
+  "service_reference_id": "$orderId",
+  "payment_method": "card",
+  "enabled_payments": [
+    "card"
+  ],
+  "payment_provider": "midtrans",
+  "attributes": {
+    "applicable_adjustment_uuid": "$UUID",
+    "applicable_bin": "$bin",
+    "payment_method": "card"
+  }
+}

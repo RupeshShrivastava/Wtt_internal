@@ -1,0 +1,10 @@
+{
+  "merchant_location_id": "$MERCHANT_LOCATION_ID",
+  "products": [
+    "$LOW_STOCK_PRODUCT_ID",
+    "$OUT_OF_STOCK_PRODUCT_ID",
+    "$HIGH_STOCK_PRODUCT_ID",
+    "$ON_DEMAND_PRODUCT_ID",
+    "$NO_INVENTORY_PRODUCT_ID"
+  ]
+}

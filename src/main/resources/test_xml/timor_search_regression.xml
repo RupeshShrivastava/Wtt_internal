@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--suppress XmlUnboundNsPrefix, XmlUnboundNsPrefix, XmlUnboundNsPrefix, XmlUnboundNsPrefix -->
+<suite name="oms backend test" verbose="1">
+    <listeners>
+        <listener class-name="com.halodoc.oms.orders.slack.SlackStageListener"></listener>
+    </listeners>
+    <test name="Timor-Search-Regression">
+        <classes>
+            <class name="com.halodoc.search.SearchRegression"/>
+            <class name="com.halodoc.search.MultipleImagesSupport"></class>
+        </classes>
+    </test>
+</suite>

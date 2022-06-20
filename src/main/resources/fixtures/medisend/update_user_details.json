@@ -1,0 +1,5 @@
+{
+  "owner_name": "$ownerName",
+  "merchant_id": "$merchantId",
+  "merchant_location_id" : "$merchantLocationId"
+}

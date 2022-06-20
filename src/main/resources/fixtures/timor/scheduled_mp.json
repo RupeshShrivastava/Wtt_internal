@@ -1,0 +1,46 @@
+{
+  "order": {
+    "attributes": {
+      "address_details": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, ",
+      "address_name": "Jalan Setia Budi Selatan"
+    },
+    "cart_id": "$cart_id",
+    "channel": "HALODOC",
+    "currency": "IDR",
+    "entity_id": "47064c47-cc40-4615-bb3b-ad1cd0153e48",
+    "entity_type": "user",
+    "items": [
+      {
+        "currency": "IDR",
+        "description": "just for test",
+        "listing_id": "44f11910-bf33-4c67-ac9a-fca028a078aa",
+        "name": "iOS Automation 50 MG",
+        "requested_price": "10400",
+        "requested_quantity": "1"
+      },
+      {
+        "currency": "IDR",
+        "description": "just for test",
+        "listing_id": "8492d94c-87ef-4d7f-bf7e-da656fdc8671",
+        "name": "iOS Red Medicine",
+        "requested_price": "10400",
+        "requested_quantity": "1"
+      },
+      {
+        "currency": "IDR",
+        "description": "just for test",
+        "listing_id": "56fff2ba-0e7e-437d-810d-968e84bffea6",
+        "name": "iOS Automation instant & regular",
+        "requested_price": "10400",
+        "requested_quantity": "1"
+      }
+    ],
+
+    "latitude": "-6.21956873",
+    "longitude": "106.8325882",
+    "patient_id": "47064c47-cc40-4615-bb3b-ad1cd0153e48",
+    "shipping_address": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, "
+  },
+  "signed_document": true,
+  "fulfilment_strategy": "multiple_pharmacy"
+}

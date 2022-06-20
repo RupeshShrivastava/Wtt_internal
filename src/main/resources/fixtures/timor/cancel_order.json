@@ -1,0 +1,5 @@
+{
+  "type" : "merchant_cancelled",
+  "reason" :"for testing",
+  "comments" :"by automation script"
+}

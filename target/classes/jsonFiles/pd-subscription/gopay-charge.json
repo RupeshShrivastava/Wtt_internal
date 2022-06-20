@@ -1,0 +1,9 @@
+{
+  "amount": 15800,
+  "instrument_details": {
+    "payment_option": "gopay_wallet",
+    "user_instrument_id": "$instrument_id"
+  },
+  "payment_method": "gopay",
+  "payment_provider": "midtrans"
+}

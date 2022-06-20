@@ -1,0 +1,20 @@
+{
+  "entity_type": "$entity_type",
+  "entity_id": "$entity_id",
+  "service_type": "$service",
+  "service_reference_id": "$order_id",
+  "currency": "IDR",
+  "amount": "$amount",
+  "payment_provider": "midtrans",
+  "payment_method": "$payment_method",
+  "attribute_list": [
+    {
+      "attribute_key": "payment_option",
+      "attribute_value": "GOPAY_WALLET"
+    },
+    {
+      "attribute_key": "user_instrument_id",
+      "attribute_value": "$instrument_id"
+    }
+  ]
+}

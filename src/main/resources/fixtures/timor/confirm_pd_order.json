@@ -1,0 +1,17 @@
+{
+  "order": {
+    "patient_id": "$patient_id",
+    "bali_patient_id": "nothing"
+  },
+  "order_payments" : [{
+    "method" : "wallet",
+    "amount" : "$price"
+
+  }],
+  "notes": [
+    {
+      "type": "user_note",
+      "comments": "Order confirm by Gaurav Meh - for testing"
+    }
+  ]
+}

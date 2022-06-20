@@ -1,0 +1,15 @@
+{
+  "notes": [
+    {
+      "comments": "confirming order for payment",
+      "type": "user_note"
+    }
+  ],
+  "order_payments": [
+    {
+      "amount": "27000",
+      "method": "gopay",
+      "payment_reference_id": "$payment_id"
+    }
+  ]
+}

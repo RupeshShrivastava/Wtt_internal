@@ -1,0 +1,20 @@
+{
+  "entity_type": "$entity_type",
+  "entity_id": "$entity_id",
+  "service_type": "$service_type",
+  "service_reference_id": "$orderId",
+  "currency": "$currency",
+  "amount": "$amount",
+  "payment_provider": "$payment_provider",
+  "payment_method": "$payment_method",
+  "attribute_list": [
+    {
+      "attribute_key": "$payment_option_attribute_key",
+      "attribute_value": "$payment_option"
+    },
+    {
+      "attribute_key": "$user_instrument_id_attribute_key",
+      "attribute_value": "$user_instrument_id"
+    }
+  ]
+}

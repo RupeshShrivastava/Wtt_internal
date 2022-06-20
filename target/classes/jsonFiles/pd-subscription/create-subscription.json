@@ -1,0 +1,28 @@
+{
+  "entity_type": "user",
+  "entity_id": "$patient_id",
+  "status": "created",
+  "currency": "IDR",
+  "source": "customer",
+  "patient_id": "$patient_id",
+  "total": 0,
+  "package_amount": 0,
+  "refund_amount": 0,
+  "package_id": "$package_id",
+  "renew": false,
+  "parent_id": 0,
+  "parent_customer_subscription_id": "",
+  "adjustments": [],
+  "payments": [],
+  "attributes": {
+    "package_source": "scheme",
+    "scheme_external_id": "$scheme_external_id",
+    "scheme_name": "Scheme A",
+    "scheme_type": "constant",
+    "scheme_frequency_value": "3",
+    "scheme_frequency_unit": "MONTH",
+    "product_external_id": "abc",
+    "product_name": "abc"
+  },
+  "vases": []
+}

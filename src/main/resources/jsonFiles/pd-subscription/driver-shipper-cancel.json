@@ -1,0 +1,16 @@
+{
+  "order_id": "$tracking-id",
+  "external_id": "018c3f55-f7af-4606-88ff-867365107685",
+  "awb": "e6827422-20c4-41ff-b871-1e886e4bc889",
+  "status_date": "2017-01-01T08:22:00+00:00",
+  "internal": {
+    "id": 99,
+    "name": "order created",
+    "description": ""
+  },
+  "external": {
+    "id": 99,
+    "name": "order created",
+    "description": ""
+  }
+}

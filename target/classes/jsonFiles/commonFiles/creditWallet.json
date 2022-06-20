@@ -1,0 +1,17 @@
+{
+  "customer_transaction_id": "strinsg-1ss11",
+  "service_reference_id": "strinsg-21ss1",
+  "payment_reference_id": "$payRefId",
+  "transaction_time": 1546857809655,
+  "amount": "$amount",
+  "currency": "IDR",
+  "service_type": "topup",
+  "transaction_reason": "user_payment_topup",
+  "remarks": "string",
+  "transaction_attributes": [
+    {
+      "attribute_key": "string",
+      "attribute_value": "string"
+    }
+  ]
+}

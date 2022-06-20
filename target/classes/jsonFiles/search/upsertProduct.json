@@ -1,0 +1,13 @@
+{
+  "id": "9b11d301-0636-4446-9ca8-e144ea105c78",
+  "checksum": 3030227614,
+  "source": "timor-cms",
+  "event_time": 1577677830588,
+  "data": {
+    "data": "Product(super=com.halodoc.timor.cms.domain.Product@1021c339, name=PRENAMIA 4 KAPSUL, metaDescription=Informasi terlengkap tentang PRENAMIA 4 KAPSUL. Komposisi, Fungsi, Kegunaan, Ulasan, Efek Samping, Indikasi, Aturan Pakai, dan Dosis., metaKeywords=20190102, Suplemen, vitamin, mineral, anemia, kehamilan, menyusui, Branded Generic ||R1, type=medicine, basePrice=9900.00, minPrice=4200.00, currency=IDR, thumbnailUrl=https://d2qjkwm11akmwu.cloudfront.net/products/thumbnails/3359.jpg, imageUrl=https://d2qjkwm11akmwu.cloudfront.net/products/images/3359.jpg, manufacturerId=274, status=active, display=true, maxRetailPrice=6564.00, popularity=0.01, maxAllowablePrice=16500.00, minAllowablePrice=1193.00, takeRate=0.1, slug=null)"
+  },
+  "host_name": "localhost",
+  "entity_id": "3611c7da-d054-4c24-8450-7cf719c6cbbc",
+  "entity_type": "product",
+  "event_type": "product_updated"
+}

@@ -1,0 +1,9 @@
+{
+  "key": "wrong_address",
+  "type": "customer_cancelled",
+  "reason": "I input the wrong address",
+  "attributes": {
+    "cancel_subscription": true
+  },
+  "comments": null
+}

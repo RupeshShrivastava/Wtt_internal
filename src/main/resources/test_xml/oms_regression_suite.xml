@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="pd_order_flow" verbose="1" >
+    <test name="Timor OMS regression suite" >
+        <classes>
+            <class name="com.halodoc.omstests.orders.timor.TimorTestCasesOrders"/>
+            <class name="com.halodoc.omstests.orders.timor.OrdersRegressionTest"/>
+            <class name="com.halodoc.omstests.orders.timor.LeadsRegressionTest"></class>
+            <class name="com.halodoc.omstests.orders.timor.AutoBINBasedOMSTests"></class>
+            <class name="com.halodoc.omstests.orders.TimorAnalytics.TimorAnalyticsTests"></class>
+            <class name="com.halodoc.omstests.orders.feedback.feedbackTest"></class>
+            <class name="com.halodoc.omstests.orders.feedback.InternalFeedbackTest"></class>
+            <class name="com.halodoc.omstests.orders.komodo.KomodoOrderTests"></class>
+            <class name="com.halodoc.omstests.orders.timor.ScheduledOrderTests"></class>
+            <class name="com.halodoc.omstests.orders.komodo.NationwideShippingv4Tests"></class>
+            <class name="com.halodoc.omstests.orders.fulfillment.ReallocationOrderTests"></class>
+            <class name="com.halodoc.omstests.orders.timor.CustomerCancelledReallocation"></class>
+            <class name="com.halodoc.omstests.orders.timor.ManualBINBasedOMSTests"></class>
+            <class name="com.halodoc.omstests.orders.timor.RedMedicineOrderTests"/>
+        </classes>
+    </test>
+</suite>

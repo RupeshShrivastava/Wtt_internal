@@ -1,0 +1,17 @@
+{
+  "amount": "$amount",
+  "attributes": {
+    "applicable_bin": "$bin",
+    "Applicable_adjustment_uuid": "$UUID"
+  },
+  "currency": "IDR",
+  "customer_details": {
+    "email": "nOQOVx0YZW4bBcsfcwt0cW6t3SSdEZApjeU9RvBffTqx66B5mQrScZgTZUuKFLmxQ2PZNzBwisfoScUqC+3S8Q\u003d\u003d@halodoc.com"
+  },
+  "enabled_payments": [
+    "$method"
+  ],
+  "order_id": "$orderId",
+  "payment_provider": "midtrans",
+  "service_type": "$serviceType"
+}

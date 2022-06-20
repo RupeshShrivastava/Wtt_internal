@@ -1,0 +1,10 @@
+{
+  "patient_id": "$patient_id",
+  "order_payments": [
+    {
+      "amount": 11000.0,
+      "method": "wallet"
+    }
+  ],
+  "prescriptions": []
+}

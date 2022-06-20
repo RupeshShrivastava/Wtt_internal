@@ -1,0 +1,41 @@
+{
+  "order_payments": [
+    {
+      "method": "cash",
+<<<<<<< HEAD
+      "amount": 43000
+
+=======
+      "amount": 11000
+>>>>>>> 2ce0334956bac3cda14512dc48dd04e203c33a7e
+    }
+  ],
+  "prescriptions": [
+    {
+      "image_url": "https://halodoc-sumba.s3.amazonaws.com/prescriptions/P3N4YK-9332_74179669-b3ea-4109-9e62-048695d39760.pdf",
+      "notes": ""
+    },
+    {
+      "image_url": "https://halodoc-sumba.s3.amazonaws.com/prescriptions/P3N4YK-9332_74179669-b3ea-4109-9e62-048695d39760.pdf",
+      "notes": ""
+    },
+    {
+      "image_url": "https://halodoc-sumba.s3.amazonaws.com/prescriptions/P3N4YK-5457_a956ef30-1f61-4b35-b806-0ac4a28b9f07.pdf",
+      "notes": ""
+    },
+    {
+      "image_url": "https://halodoc-sumba.s3.amazonaws.com/prescriptions/P3N4YK-9332_74179669-b3ea-4109-9e62-048695d39760.pdf",
+      "notes": ""
+    },
+    {
+      "image_url": "https://halodoc-sumba.s3.amazonaws.com/prescriptions/P3N4YK-5457_a956ef30-1f61-4b35-b806-0ac4a28b9f07.pdf",
+      "notes": ""
+    }
+  ],
+  "notes": [
+    {
+      "type": "user_note",
+      "comments": "Add Delivery Notes"
+    }
+  ]
+}

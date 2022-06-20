@@ -1,0 +1,35 @@
+{
+  "cart_id": "$cart_id",
+  "channel":"GO_MED",
+  "currency":"IDR",
+  "entity_id": "43242a0c-b155-49c7-8447-22ffd6870d15",
+  "patient_id": "81d1aafc-17e6-4586-ab9c-13ffe48c44e2",
+  "entity_type":"user",
+  "items":[
+    {
+      "currency":"IDR",
+<<<<<<< HEAD
+      "description":"Dont map this product with any merchant. This is used for automation",
+      "listing_id":"1c1c15d0-a4fc-49b5-ad09-38464cd6be4e",
+      "name":"Automation product",
+      "requested_price":"10000",
+      "requested_quantity":"2"
+=======
+      "description":"just for test",
+      "listing_id":"32cee706-64f6-4de6-9ae6-efc2724b56ec",
+      "name":"OBAT BERSAMA10",
+      "requested_price":"2319.0",
+      "requested_quantity":"11"
+>>>>>>> 2ce0334956bac3cda14512dc48dd04e203c33a7e
+    }
+  ],
+  "latitude": "-6.231916",
+  "longitude": "106.8294068",
+  "shipping_address": "BLR",
+  "city": null,
+  "postal_code": null,
+  "order_date": 1507547136000,
+  "attributes" : {
+    "lead_id" : "$lead_id"
+  }
+}

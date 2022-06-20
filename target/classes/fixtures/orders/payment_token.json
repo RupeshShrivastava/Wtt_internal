@@ -1,0 +1,16 @@
+{
+  "entity_type": "user",
+  "entity_id": "bb1b9841-f34f-4d60-b12c-e255c7025ffa",
+  "service_type": "pharmacy_delivery",
+  "service_reference_id": "$order_id",
+  "currency": "IDR",
+  "amount": "$amount",
+  "payment_provider": "midtrans",
+  "enabled_payments": [
+    "card"
+  ],
+  "attributes": {
+    "applicable_adjustment_uuid": "$uuid",
+    "payment_method":"card"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "status": "$status",
+  "name": "$name",
+  "amount": 10000001,
+  "duration": 10000000,
+  "duration_unit": "YEAR",
+  "display_order": 1,
+  "attributes": [
+
+    {
+      "attribute_key": "subscription_fulfilment_provider",
+      "attribute_value": "$subscription_fulfilment_provider_value",
+      "language": "na"
+    },
+    {
+
+      "attribute_key": "subscription_price",
+      "attribute_value": "$subscription_price_value",
+      "language": "na"
+    },
+    {
+
+      "attribute_key": "min_monthly_duration",
+      "attribute_value": "6",
+      "language": "na"
+    },
+    {
+      "attribute_key": "max_monthly_duration",
+      "attribute_value": "20",
+      "language": "na"
+    },
+    {
+
+      "attribute_key": "max_weekly_duration",
+      "attribute_value": "20",
+      "language": "na"
+    },
+    {
+      "attribute_key": "min_weekly_duration",
+      "attribute_value": "6",
+      "language": "na"
+    },
+    {
+      "attribute_key": "frequency",
+      "attribute_value": "monthly,weekly",
+      "language": "na"
+    },
+    {
+      "attribute_key": "scheme_id",
+      "attribute_value": "$scheme_id_value",
+      "language": "na"
+    }
+
+  ]
+}

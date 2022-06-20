@@ -1,0 +1,6 @@
+{
+  "attributes":{
+    "batch_no": "$batchNo",
+    "expiry_date": $expiryDate
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "cancel_request": {
+    "type" : "$type",
+    "reason" :"for testing",
+    "comments" :"by automation script"
+  },
+  "group_id": "$groupId",
+  "order": {
+  }
+}

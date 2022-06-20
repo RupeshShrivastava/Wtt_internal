@@ -1,0 +1,5 @@
+{
+  "status": "$status",
+  "available_quantity": $availableQuantity,
+  "sku_id": "$skuId"
+}

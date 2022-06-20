@@ -1,0 +1,15 @@
+{
+  "value_type":"percentage",
+  "value":34,
+  "name":"pd-subscriptation-backend-automation-test",
+  "description":"$description",
+  "status":"$status",
+  "service_type":"pharmacy_delivery",
+  "benefit_type":"$benefit_type",
+  "scheme_benefit_conditions":[{
+    "status": "$benefit_conditions_status",
+    "condition_external_id": "id1",
+    "values": "1"
+  }]
+
+}

@@ -1,0 +1,8 @@
+{
+  "items":[
+    {
+      "listing_id": "$productId",
+      "requested_quantity" : "$requestedqty"
+    }
+  ]
+}

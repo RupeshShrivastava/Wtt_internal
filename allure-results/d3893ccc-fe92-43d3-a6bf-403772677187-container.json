@@ -1,0 +1,1 @@
+{"uuid":"d3893ccc-fe92-43d3-a6bf-403772677187","name":"com.halodoc.search.SearchTestCases","children":["9c28cb65-9795-4564-877a-c15fceb8e9d3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1649668930230,"stop":1649668930248}],"afters":[],"links":[],"start":1649668930171,"stop":1649668933877}

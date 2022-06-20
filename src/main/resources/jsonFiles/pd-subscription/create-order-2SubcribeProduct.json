@@ -1,0 +1,47 @@
+{
+  "attributes": {
+    "address_details": "Jl. Karet Belakang Barat No.17, RT.9/RW.2, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia",
+    "address_name": "Jalan Karet Belakang Barat"
+  },
+  "cart_id": "$guid",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "$user_id",
+  "entity_type": "user",
+  "items": [
+    {
+      "requested_quantity": 1,
+      "currency": "IDR",
+      "description": "android automation",
+      "listing_id": "$product_extId",
+      "name": "ANDROID AUTO RED",
+      "attributes": {
+        "package_frequency_unit": "weekly",
+        "is_subscribable": "true",
+        "package_id": "$subscription_package",
+        "package_frequency_value": "2",
+        "subscription_fulfilled_by": "$merchant_location_id"
+
+      }
+    },
+    {
+      "requested_quantity": 1,
+      "currency": "IDR",
+      "description": "android automation",
+      "listing_id": "e5afb41e-55ca-4016-bfac-55ce77592d67",
+      "name": "ANDROID AUTO RED",
+      "attributes": {
+        "package_frequency_unit": "weekly",
+        "is_subscribable": "true",
+        "package_id": "3b0cccfd-5fc2-47ed-8013-8ca1a1cfd4d5",
+        "package_frequency_value": "2",
+        "subscription_fulfilled_by": "$merchant_location_id"
+
+      }
+    }
+  ],
+  "latitude": "-6.21711365",
+  "longitude": "106.82550184",
+  "patient_id": "$user_id",
+  "shipping_address": "Jl. Karet Belakang Barat No.17, RT.9/RW.2, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia"
+}

@@ -1,0 +1,46 @@
+{
+  "order": {
+    "attributes": {
+      "address_details": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, ",
+      "address_name": "Jalan Setia Budi Selatan"
+    },
+    "cart_id": "$cart_id",
+    "channel": "HALODOC",
+    "currency": "IDR",
+    "entity_id": "$entity_id",
+    "entity_type": "user",
+    "items": [
+      {
+        "currency": "IDR",
+        "description": "just for test",
+        "listing_id": "0fde4e3f-5fc7-4f4a-8010-598580f7a44c",
+        "name": "iOS Automation Instant  Regular",
+        "requested_price": "14900",
+        "requested_quantity": "2"
+      },
+      {
+        "currency": "IDR",
+        "description": "just for test",
+        "listing_id": "3be0ef01-9c8f-4069-82c2-048a22e4bca7",
+        "name": "Calpol 500mg Tablet",
+        "requested_price": "25000",
+        "requested_quantity": "1"
+      },
+      {
+        "currency": "IDR",
+        "description": "just for test",
+        "listing_id": "6ba1712e-c329-47aa-808e-4a339cea6212",
+        "name": "IOS AUTOMATION 50 MG",
+        "requested_price": "44000",
+        "requested_quantity": "2"
+      }
+    ],
+    "latitude": "-6.21281567",
+    "longitude": "106.82895954",
+    "patient_id":"$entity_id",
+    "shipping_address": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, "
+  },
+  "order_payment_decoupled": true,
+  "signed_document": true,
+  "fulfilment_strategy": "multiple-pharmacy"
+}

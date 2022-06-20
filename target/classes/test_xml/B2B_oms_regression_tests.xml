@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="B2B_order_flow" verbose="1">
+    <listeners>
+        <listener class-name="com.halodoc.oms.orders.slack.SlackStageListener"></listener>
+    </listeners>
+    <test name="Medisend Buru, Derawan">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.halodoc.omstests.orders.buru.medisend.CreateOrderTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.GetOrderTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.UpdateItemTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.AbandonOrderTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.ConfirmOrderTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.ShipmentDocsTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.CancelOrderTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.DiscountSetupTestsBuru"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.ShipmentProofOfPaymentTests"/>
+            <class name="com.halodoc.omstests.orders.buru.medisend.ShipmentDeleteProofOfPayment"/>
+            <class name="com.halodoc.medisendLoginTests.LoginH4PTests"/>
+            <class name="com.halodoc.medisendLoginTests.UserRolesTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.SearchOrderTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.CreateOrderNotesTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.CancelShipmentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.DeliverShipmentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.ConfirmShipmentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.TransitShipmentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.CompleteShipmentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.UpdateStockTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.CreateChildShipmentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.DiscountSetupTestsDerawan"/>
+            <class name="com.halodoc.omstests.orders.derawan.BatchNoTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.ShipmentInvoiceTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.ShipmentDeleteInvoiceTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.ApprovePaymentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.RejectPaymentTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.UpdateStockB2BInvoiceTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.ShipmentTaxTests"/>
+            <class name="com.halodoc.omstests.orders.derawan.ShipmentDeleteTaxTests"/>
+        </classes>
+    </test>
+</suite>

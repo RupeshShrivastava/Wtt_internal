@@ -1,0 +1,38 @@
+{
+  "cart_id": "$cart_id",
+  "channel": "GO_MED",
+  "currency": "IDR",
+  "entity_id": "9e18629b-e0eb-4ad2-93da-a4ec109f3bce",
+  "patient_id": "49371c26-ab5d-4f55-9379-d81eaaa87767",
+  "entity_type": "user",
+  "type": "delivery",
+  "items": [
+    {
+      "currency": "IDR",
+      "description": "just for test",
+      "listing_id": "09158cb7-81bc-4bc1-95a6-4dfc235a67df",
+      "name": "product-d",
+      "requested_price": "12319.0",
+      "requested_quantity": "10"
+    },
+    {
+      "currency": "IDR",
+      "description": "just for test",
+      "listing_id": "865ef72e-d841-40ed-8526-a6fe36750f64",
+      "name": "product-c",
+      "requested_price": "12319.0",
+      "requested_quantity": "10"
+    }
+  ],
+  "latitude": "-6.21045067",
+  "longitude": "106.83011893",
+  "shipping_address": "BLR",
+  "city": null,
+  "postal_code": null,
+  "order_date": 1520849247671,
+  "attributes": {
+    "allocation_type": "system",
+    "delivery_type": "delayed_instant",
+    "consultation_id": "2Y58YN-6543"
+  }
+}

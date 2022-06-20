@@ -1,0 +1,23 @@
+{
+  "attributes": {
+    "address_details": "1, Jl. Daan Mogot No.1, RT.1/RW.5, Duri Kosambi, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11750, Indonesia",
+    "address_name": "Green Park View Apartment"
+  },
+  "cart_id": "$cart_id",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "$entity_id",
+  "entity_type": "user",
+  "items": [
+    {
+      "listing_id": "$listing_id",
+      "name": "Koi bhi dawai",
+      "requested_quantity": "1",
+      "requested_price": "12000"
+    }
+  ],
+  "latitude": "-6.15477374",
+  "longitude": "106.71907883",
+  "patient_id": "$entity_id",
+  "shipping_address": "1, Jl. Daan Mogot No.1, RT.1/RW.5, Duri Kosambi, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11750, Indonesia"
+}

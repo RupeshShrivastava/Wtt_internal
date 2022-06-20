@@ -1,0 +1,12 @@
+{
+  "items":[
+    {
+      "listing_id": "0a1dfac4-d04a-4b8d-be71-b95ee83ada2f",
+      "requested_quantity" : 4
+    },
+    {
+      "listing_id": "0baad00d-83c4-4d60-b45c-606bf6aef5c0",
+      "requested_quantity" : 5
+    }
+  ]
+}

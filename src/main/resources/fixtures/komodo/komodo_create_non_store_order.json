@@ -1,0 +1,20 @@
+{
+  "cart_id": "$cartId",
+  "channel": "HALODOC",
+  "currency": "IDR",
+  "entity_id": "$entityId",
+  "entity_type": "user",
+  "order_date": "$orderDate",
+  "items": [
+    {
+      "listing_id": "$productId",
+      "name": "Panadol Nationwide",
+      "requested_quantity": "1",
+      "requested_price": "10000"
+    }
+  ],
+  "latitude": "$latitude",
+  "longitude": "$longitude",
+  "patient_id": "$entityId",
+  "shipping_address": "Gedung Mensa, Jl. Setia Budi Selatan, RT.10/RW.7, Kuningan, Karet, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12920, Indonesia, "
+}

@@ -1,0 +1,7 @@
+{
+  "gpid":"$gpid",
+  "status": "$status",
+  "merchant_id": "$merchantId",
+  "merchant_location_id": "$merchantLocationId",
+  "name": "$name"
+}
